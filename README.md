@@ -16,8 +16,6 @@ This repository contains hands-on home labs that simulate real-world IT tasks. T
 
 - [Lab 1: User Management](user-management/README.md)
 
-- *(Future labs to be added here)*
-
 ## Key Skills Demonstrated
 - VirtualBox virtualization  
 - Windows user account management  
