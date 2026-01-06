@@ -12,7 +12,9 @@ This repository contains hands-on home labs that simulate real-world IT tasks. T
 ## Labs
 - **Lab 1 — User Management**  
   Create administrator and standard users, configure folder permissions, and verify access control.  
-  [Link to Lab 1 README](user-management/README.md)
+  ## Labs
+
+- [Lab 1: User Management](user-management/README.md)
 
 - *(Future labs to be added here)*
 
